@@ -1,4 +1,4 @@
-📚 Smart Study Mentor – Multi-Agent Learning Assistant (SSM-A)
+<img width="1905" height="964" alt="image" src="https://github.com/user-attachments/assets/819a4c38-d841-4a5b-af80-70868d850b02" />📚 Smart Study Mentor – Multi-Agent Learning Assistant (SSM-A)
 Personalized learning powered by multi-agent AI — Diagnose Weaknesses · Generate Micro-Lessons · Track Progress Over Time
 
 🚀 Overview
@@ -73,35 +73,6 @@ Custom Tools (Quiz generator & evaluator)
 Memory Bank for long-term adaptation
 MCP / Search Tools for external knowledge
 Kaggle Notebook for development and execution
-
-📂 Repository Structure
-SSM-A/
-│
-├── agents/
-│   ├── orchestrator_agent.py
-│   ├── intake_agent.py
-│   ├── weakness_detector_agent.py
-│   ├── lesson_generator_agent.py
-│   └── progress_tracker_agent.py
-│
-├── tools/
-│   ├── quiz_generator.py
-│   ├── quiz_evaluator.py
-│   └── search_tool.py
-│
-├── memory/
-│   ├── memory_store.py
-│   └── session_memory.py
-│
-├── notebooks/
-│   └── ssm_a_kaggle_notebook.ipynb
-│
-├── assets/
-│   ├── thumbnail_560x280.png
-│   └── architecture_diagram.png
-│
-├── README.md
-└── LICENSE
 
 📈 Value
 SSM-A helps students:
