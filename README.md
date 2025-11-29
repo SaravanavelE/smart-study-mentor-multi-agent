@@ -1,4 +1,4 @@
-<img width="1905" height="964" alt="image" src="https://github.com/user-attachments/assets/819a4c38-d841-4a5b-af80-70868d850b02" />📚 Smart Study Mentor – Multi-Agent Learning Assistant (SSM-A)
+📚 Smart Study Mentor – Multi-Agent Learning Assistant (SSM-A)
 Personalized learning powered by multi-agent AI — Diagnose Weaknesses · Generate Micro-Lessons · Track Progress Over Time
 
 🚀 Overview
